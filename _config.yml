@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-seo-tag
+
+sources:
+  - _assets/css
+  - _assets/img
+  - ./
+
+image:
+  - _assets/img/index.png
+
